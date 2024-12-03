@@ -36,6 +36,7 @@ class Solution {
             nums[high]=nums[curr];
             nums[curr]=temp;
             high--;
+            
       
           }
         }
