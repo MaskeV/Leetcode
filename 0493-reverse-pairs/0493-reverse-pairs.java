@@ -7,7 +7,7 @@ class Solution {
 
         // Counting reverse pairs
         while (i <= mid && j <= r) {
-            if ((long) nums.get(i) > 2L * nums.get(j)) {
+            if ( (long)nums.get(i) > 2L * nums.get(j)) {
                 count += mid - i + 1;
                 j++;
             } else {
