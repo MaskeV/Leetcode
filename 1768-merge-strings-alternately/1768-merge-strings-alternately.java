@@ -38,23 +38,18 @@
     int n1=word1.length(),n2=word2.length();
 
 
-  while(i<n1 && j<n2){
+  while(i<n1 || j<n2){
+    if(i<n1){
     s.append(word1.charAt(i));
-    s.append(word2.charAt(j));
     i++;
+    }
+    if(j<n2){
+    s.append(word2.charAt(j));
     j++;
     }
+    }
 
-   while(i<n1){
-    s.append(word1.charAt(i));
-    i++;
-
-   }
-
-   while(j<n2){
-    s.append(word2.charAt(j));
-    j++;
-   }
+  
  return s.toString();
 
    }
