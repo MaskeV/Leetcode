@@ -11,6 +11,7 @@ class Solution {
         while(!p.isEmpty()){
             int first=p.poll();
             count++;
+            
             if(p.isEmpty())
             break;
             long  temp=first*2L + p.poll();
