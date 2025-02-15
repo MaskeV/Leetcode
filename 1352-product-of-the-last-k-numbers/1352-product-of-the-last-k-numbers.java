@@ -43,8 +43,8 @@
     
     public int getProduct(int k) {
         int p=1;
-        for(int i=0; i<k; i++){
-            p*=al.get(al.size()-1-i);
+        for(int i=al.size()-k; i<al.size(); i++){
+            p*=al.get(i);
         }
         return p;
     }
