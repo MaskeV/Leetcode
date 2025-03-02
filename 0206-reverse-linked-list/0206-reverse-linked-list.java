@@ -10,14 +10,36 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode node = null;
+       
+        // ArrayList<Integer> arr = new ArrayList<>();
+        // while(head!=null){
+        //     arr.add(head.val);
+        //     head=head.next;
+        // }
+    
+        // Collections.reverse(arr);
+        // ListNode rev = new ListNode();
+        // ListNode start = rev;
+        
+        // for(int i : arr){
+        //     rev.next = new ListNode(i);
+        //     rev = rev.next;
+        // }
+                                                            
+        // return start.next;
 
-        while(head!=null){
-            ListNode temp = head.next;
-            head.next = node;
-            node = head;
-            head = temp;
-        }
-         return node;
+        
+        ListNode temp = null;
+        ListNode mover = head;
+        while(mover!=null){
+            ListNode rev = new ListNode(mover.val);
+            
+            rev.next = temp;
+            temp=rev;
+            mover=mover.next;
+             }
+             return temp;
+
+
     }
 }
