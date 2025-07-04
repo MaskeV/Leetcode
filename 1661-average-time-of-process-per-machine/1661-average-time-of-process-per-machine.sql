@@ -24,11 +24,11 @@
 -- where A1.activity_type= 'start' and A2.activity_type='end'
 -- group by A1.machine_id; 
 
-select A.machine_id,round((avg(B.timestamp)-avg(A.timestamp)),3) as processing_time
-from Activity A join Activity B
-on A.machine_id = B.machine_id
-where A.activity_type = 'start' and B.activity_type = 'end'
-group by A.machine_id; 
+-- select A.machine_id,round((avg(B.timestamp)-avg(A.timestamp)),3) as processing_time
+-- from Activity A join Activity B
+-- on A.machine_id = B.machine_id
+-- where A.activity_type = 'start' and B.activity_type = 'end'
+-- group by A.machine_id; 
 
 
 
@@ -40,5 +40,9 @@ group by A.machine_id;
 
 
 
-
+select a1.machine_id,  round(avg(a2.timestamp-a1.timestamp),3) as processing_time
+from Activity a1 join Activity a2 
+on a1.machine_id=a2.machine_id
+where a1.activity_type='start' and a2.activity_type='end'
+group by a1.machine_id
 
