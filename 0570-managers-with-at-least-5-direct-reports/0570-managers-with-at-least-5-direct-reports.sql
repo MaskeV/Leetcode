@@ -1,6 +1,33 @@
--- select name
--- from Employee
--- where id in (select managerId from Employee where managerId is not NULL group by managerId having count(managerId)>=5);
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- select E.name
+-- from Employee E left join Employee M
+-- on E.id=M.managerId
+-- group by E.id
+-- having count(E.id)>=5
+
+
+-- select  M.name
+-- from Employee E left join Employee M
+-- on E.managerId=M.id
+-- group by M.id
+-- having count(M.id)>=5
+
+
+select name
+from Employee
+where id in (select managerId from Employee  group by managerId having count(managerId)>=5);
 
 
 -- SELECT e.name
@@ -15,34 +42,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-select  E1.name
-from Employee E1 join Employee E2
-on E1.id = E2.managerId
-group by E1.id
-having count(E1.id)>=5;
-
--- select name
--- from Employee
--- where id in (Select managerId 
--- from Employee 
--- where managerId is  not null 
--- group by managerId 
--- having count(managerId)>=5);
