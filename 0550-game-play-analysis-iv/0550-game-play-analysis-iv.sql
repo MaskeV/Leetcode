@@ -10,6 +10,8 @@
 -- where datediff(A.event_date,(select min(event_date) from Activity where player_id=A.player_id))=1;
 
 
-select round(count(distinct A.player_id)/(select count(distinct player_id) from Activity),2) as fraction
-from Activity A
-where datediff(A.event_date,(select min(event_date) from Activity where player_id=A.player_id))=1;
+select round(count(distinct A.player_id)/(select count(distinct player_id) from Activity),2)as fraction
+from Activity A  join Activity B
+on A.player_id=B.player_id and B.event_date= A.event_date + Interval 1 day
+where  B.event_date =(select min(event_date) from Activity where player_id=A.player_id) + interval 1 day
+
