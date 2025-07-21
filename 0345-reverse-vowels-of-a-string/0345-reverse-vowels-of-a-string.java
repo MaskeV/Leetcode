@@ -1,26 +1,50 @@
 class Solution {
     public String reverseVowels(String s) {
-        StringBuilder res = new StringBuilder();
-        StringBuilder temp = new StringBuilder();
-        for(int i =s.length()-1;i>=0;i--){
-            if(s.charAt(i)=='a' || s.charAt(i)=='e' || s.charAt(i)=='i' || s.charAt(i)=='o' || s.charAt(i)=='u'||s.charAt(i)=='A' || s.charAt(i)=='E' || s.charAt(i)=='I' || s.charAt(i)=='O' || s.charAt(i)=='U'){
-            res.append(s.charAt(i));
-            }
-        }
-        int j=0;
-        for(int i=0;i<s.length();i++){
-            if(!(s.charAt(i)=='a' || s.charAt(i)=='e' || s.charAt(i)=='i' || s.charAt(i)=='o' || s.charAt(i)=='u'||s.charAt(i)=='A' || s.charAt(i)=='E' || s.charAt(i)=='I' || s.charAt(i)=='O' || s.charAt(i)=='U')){
-           temp.append(s.charAt(i));
-            }
-            else if(res.length()==0){
-                return s;
-            }
-            else{
-                temp.append(res.charAt(j));
-                j++;
-            }
+    //     StringBuilder ans = new StringBuilder();
+    //     char[] word = s.toCharArray();
+    //     int start=0,end=s.length()-1;
+    //  String vowels = "aeiouAEIOU";
 
+    //  while(start<end){
+    //     while(start < end &&  vowels.indexOf(word[start])==-1){
+    //         start++;        
+    //   }
+    //   while(start<end && vowels.indexOf(word[end])==-1){
+    //         end--;
+    //   }
+    //   char temp = word[start];
+    //   word[start]=word[end];
+    //   word[end]=temp;
+
+    //   start++;
+    //   end--;
+    //  }
+
+        
+
+    //     String answer = new String(word);
+    //     return answer;
+
+    char [] ans = s.toCharArray();
+    int lhs=0,rhs=s.length()-1;
+    while(lhs<rhs){
+        while(lhs<rhs && (ans[lhs]!='a'&& ans[lhs]!='e'&& ans[lhs]!='i'&& ans[lhs]!='o'&& ans[lhs]!='u'&& ans[lhs]!='A'&& ans[lhs]!='E'&& ans[lhs]!='I'&&ans[lhs]!='O'&& ans[lhs]!='U')){
+            lhs++;
         }
-        return temp.toString();
+          while(lhs<rhs &&  (ans[rhs]!='a'&& ans[rhs]!='e'&& ans[rhs]!='i'&& ans[rhs]!='o'&& ans[rhs]!='u'&& ans[rhs]!='A'&& ans[rhs]!='E'&& ans[rhs]!='I'&&ans[rhs]!='O'&& ans[rhs]!='U')){
+            rhs--;
+        }
+        char temp = ans[lhs];
+        ans[lhs]=ans[rhs];
+        ans[rhs]=temp;
+
+        rhs--;
+        lhs++;
+    
+    }
+    String res =new String(ans);
+    return res;
+
+
     }
 }
