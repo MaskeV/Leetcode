@@ -13,13 +13,14 @@ class Solution {
         ListNode res = head;
 
         while(res != null && res.next != null){
-            if(res.val == res.next.val){
+            if(res.val < res.next.val){
+                    res = res.next;
+            
+            }else{
                 res.next = res.next.next;
             }
-            if(res.next!=null && res.val==res.next.val){
-                res.next=res.next.next;
-            }
-            res = res.next;
+           
+      
         }
         return head;
     }
