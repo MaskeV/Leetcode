@@ -8,8 +8,8 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
-    public ListNode reverseList(ListNode head) {
+// class Solution {
+//     public ListNode reverseList(ListNode head) {
        
         // ArrayList<Integer> arr = new ArrayList<>();
         // while(head!=null){
@@ -29,16 +29,36 @@ class Solution {
         // return start.next;
 
         
-        ListNode rev = null;
-        ListNode mover = head;
-        while(mover!=null){
-            ListNode temp = new ListNode(mover.val);
-            temp.next = rev;
-            rev=temp;
-            mover=mover.next;
-             }
-             return rev;
+//         ListNode rev = null;
+//         ListNode mover = head;
+//         while(mover!=null){
+//             ListNode temp = new ListNode(mover.val);
+//             temp.next = rev;
+//             rev=temp;
+//             mover=mover.next;
+//              }
+//              return rev;
+//     }
+// }
 
 
+
+
+class Solution{
+    public ListNode reverseList(ListNode head) {
+    ListNode prev=null;
+    if(head==null || head.next==null){
+        return head;
+    }
+    ListNode pres = head;
+    ListNode next = head.next;
+    while(pres!=null){
+        pres.next=prev;
+        prev = pres;
+        pres = next;
+        if(next!=null)
+          next = next.next;
+    } 
+       return prev;
     }
 }
