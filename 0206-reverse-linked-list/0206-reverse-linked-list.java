@@ -29,16 +29,15 @@ class Solution {
         // return start.next;
 
         
-        ListNode temp = null;
+        ListNode rev = null;
         ListNode mover = head;
         while(mover!=null){
-            ListNode rev = new ListNode(mover.val);
-            
-            rev.next = temp;
-            temp=rev;
+            ListNode temp = new ListNode(mover.val);
+            temp.next = rev;
+            rev=temp;
             mover=mover.next;
              }
-             return temp;
+             return rev;
 
 
     }
