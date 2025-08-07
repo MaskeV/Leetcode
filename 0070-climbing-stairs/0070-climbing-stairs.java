@@ -4,8 +4,8 @@ class Solution {
             return n;
         }
 
-        int prev1=3;
-        int prev2=2;
+        int prev1=2;
+        int prev2=3;
         int curr=0;
 
         for(int i=3;i<n;i++){
