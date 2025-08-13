@@ -5,7 +5,7 @@ class Solution {
             int mid = i+(j-i)/2;
             if(letters[mid]>target){
                 j=mid-1;
-            }else if(letters[mid]<=target){
+            }else {
                 i=mid+1;
             }
         }
