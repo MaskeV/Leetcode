@@ -1,14 +1,15 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int max = maxElement(nums);
-        int ans = binarySearch(nums,target,0,max);
-        if(ans!=-1){
-            return ans;
+        int start=0,end=nums.length-1;
+        int pivot = maxElement(nums);
+        if(nums[pivot]==target){
+            return pivot;
+        }else if(nums[start]<=target){
+            return binarySearch(nums,target,0,pivot-1);
+        }else{
+            return binarySearch(nums,target,pivot+1,nums.length-1);
         }
-        if(max<nums.length-1){
-            return binarySearch(nums,target,max+1,nums.length-1);
-        }
-        return -1;
+   
 
     }
 
@@ -27,7 +28,7 @@ class Solution {
                 start=mid+1;
             }
         }
-        return -1;
+        return nums.length-1;
     }
     private int binarySearch(int[] nums,int target,int start,int end){
        while(start<=end){
