@@ -3,10 +3,11 @@ class Solution {
         int n=num.length;
        List<Integer> ans = new ArrayList<>();
 
-       int i=n;
-       while(--i>=0 || k>0){
+       int i=n-1;
+       while(i>=0 || k>0){
         if(i>=0){
             k+=num[i];
+            i--;
         }
         ans.add(k%10);
         k /=10;
