@@ -1,28 +1,21 @@
 class Solution {
     public int mySqrt(int x) {
-        if(x==0 || x==1){
-            return x;
-        }
-       
-       int mid = -1;
-       int l=1,h=x;
-       while(l <= h){
-
-        mid = l+(h-l)/2;
-
-        if((long) mid * mid > (long) x){
-            h = mid-1;
-        }
-
-        else if (mid * mid == x){
+      if(x<2){
+        return x;
+      }
+      int start=0;
+      int end=x/2;
+      while(start<=end){
+       int  mid=start+(end-start)/2;
+        long square=(long) mid*mid;
+        if(square<x){
+            start=mid+1;
+        }else if(square>x){
+            end=mid-1;
+        }else{
             return mid;
         }
-
-        else{
-            l = mid+1;
-        }
-       }
-       return Math.round(h);
-
+      }
+     return end;
     }
 }
