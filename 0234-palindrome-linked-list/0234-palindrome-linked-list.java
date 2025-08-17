@@ -32,7 +32,7 @@
         }
         ListNode temp=head;
 
-        while(temp.val!=prev.val){
+        while(temp!=null && prev!=null){
             if(temp.val != prev.val){
                 return false;
             }
