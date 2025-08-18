@@ -18,9 +18,9 @@ class Solution {
                 }
             }
         }
-        String rev = new String(sb);
+        
 
-        return rev+word.substring(next,word.length());
+        return sb.toString()+word.substring(next,word.length());
         
     }
 }
