@@ -10,7 +10,7 @@ class Solution {
             if(s1.charAt(i)==s2.charAt(i)){
                 sb.append(s1.charAt(i));
             }else{
-               return sb.toString();
+               break;
             }
         }
         return sb.toString();
