@@ -2,6 +2,7 @@ class Solution {
     public boolean wordPattern(String pattern, String s) {
         String[] arr = s.split(" ");
         Map<Character,String> map = new HashMap<>();
+        Set<String> checked = new HashSet<>();
         if(arr.length!=pattern.length()){
             return false;
         }
@@ -10,11 +11,12 @@ class Solution {
                 if(!map.get(pattern.charAt(i)).equals(arr[i])){
                     return false;
                 }
-            } else if(map.containsValue(arr[i])){
+            } else if(checked.contains(arr[i])){
                 return false;
             }
             else{
             map.put(pattern.charAt(i),arr[i]);
+            checked.add(arr[i]);
             }
         }
         return true;
