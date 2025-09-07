@@ -16,6 +16,9 @@
         HashSet<Integer> set = new HashSet<>();
         int j=0;
         int max=0;
+        if(k==0){
+            return false;
+        }
         for(int i=0;i<nums.length;i++){
             if(!set.add(nums[i])){
                return true;
