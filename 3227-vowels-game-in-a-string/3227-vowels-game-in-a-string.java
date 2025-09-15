@@ -8,13 +8,10 @@ class Solution {
            }
 
         }
-        if( vowels!=0 && vowels%2==0){
+        if((vowels!=0 && vowels%2==0) || (vowels%2!=0)){
             return true;
         }
-        if(vowels%2!=0){
-            return true;
-        }
-    
+       
         return false;
     }
 }
