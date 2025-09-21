@@ -1,12 +1,12 @@
 class Solution {
     public int hammingWeight(int n) {
-        StringBuilder sb = new StringBuilder();
+        int count=0;
         while(n>0){
         if(n%2!=0){
-            sb.append(n%2);
+           count++;
         }
             n=n/2;
         }
-        return sb.length();
+        return count;
     }
 }
