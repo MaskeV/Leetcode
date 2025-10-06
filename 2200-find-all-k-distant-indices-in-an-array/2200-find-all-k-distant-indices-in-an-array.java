@@ -13,7 +13,7 @@ class Solution {
         }
         Set<Integer> set=new HashSet<>(ans);
          ans = new ArrayList<>(set);
-
+         Collections.sort(ans);
         return ans;
     }
 }
