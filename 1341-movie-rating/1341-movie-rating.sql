@@ -15,20 +15,19 @@
 -- limit 1
 
 
-
 (select name as results
-from Users U join MovieRating M
+from Users u join MovieRating M 
 on U.user_id=M.user_id
 group by M.user_id
 order by count(M.user_id) desc,name
 limit 1)
 
-union all
+Union all
 
-(select title as results
-from Movies M join MovieRating Mr
-on M.movie_id=Mr.movie_id
-where year(created_at)='2020' and month(created_at)='02'
+(select title
+from Movies M join MovieRating MR
+on M.movie_id = MR.movie_id
+where created_at between '2020-02-01' and '2020-02-29'
 group by M.movie_id
-order by avg(rating) desc,title 
+order by avg(rating) desc,title
 limit 1)
