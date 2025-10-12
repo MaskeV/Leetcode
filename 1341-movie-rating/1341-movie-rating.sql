@@ -23,7 +23,7 @@ group by M.user_id
 order by count(M.user_id) desc,name
 limit 1)
 
-union 
+union all
 
 (select title as results
 from Movies M join MovieRating Mr
