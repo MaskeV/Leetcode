@@ -16,7 +16,9 @@ class Solution {
             
         // }
         // return true;
-
+      if(s.length()!=t.length()){
+        return false;
+      }
       int [] alphabate = new int[26];
       for(int i=0;i<s.length();i++){
         alphabate[s.charAt(i)-'a']++;
