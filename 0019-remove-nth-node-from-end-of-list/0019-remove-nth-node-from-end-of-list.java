@@ -36,9 +36,7 @@ class Solution {
             temp=temp.next;
         }
         temp=head;
-         if(length==1){
-            return null;
-        }if(length==n){
+         if(length==n){
             return head.next;
         }
         for(int i=0;i<length-n-1;i++){
