@@ -49,19 +49,21 @@ class Solution{
         if(head==null){
             return null;
         }
-        ListNode prev=null;
+        ListNode prev = null;
         ListNode curr = head;
-        ListNode next= curr.next;
+        ListNode next = head.next;
+
         while(curr!=null){
             curr.next=prev;
             prev=curr;
             curr=next;
-            if(curr!=null){
+            if(next!=null){
                 next = next.next;
             }
         }
-     return prev;
-    
+        return prev;
+    }
+        
     }
     // ListNode mover = head;
     // ListNode rev = null;
@@ -74,4 +76,4 @@ class Solution{
     // return rev;
     // }
     
-}
+// }
