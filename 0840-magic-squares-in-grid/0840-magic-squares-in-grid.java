@@ -3,6 +3,9 @@ class Solution {
         int m=grid.length;
         int n=grid[0].length;
         int count=0;
+        if(m<3 || n<3){
+            return 0;
+        }
         for(int i=0;i<=m-3;i++){
             for(int j=0;j<=n-3;j++){
                 count+=isMagicTriangle(grid,i,j);
@@ -15,6 +18,17 @@ class Solution {
         if(grid[(r+1)][(c+1)]!=5){
             return 0;
         }
+        boolean [] seen = new boolean[16];
+        for(int i=r;i<r+3;i++){
+            for(int j=c;j<c+3;j++){
+                int n = grid[i][j];
+                if(n<1 || n>9 ||seen[n] ){
+                    return 0;
+                }
+                seen[n]=true;
+            }
+        }
+    
         for(int i=r;i<r+3;i++){
           int rowSum=0;
           for(int j=c;j<c+3;j++){
