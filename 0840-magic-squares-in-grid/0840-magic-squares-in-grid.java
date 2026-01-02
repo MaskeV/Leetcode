@@ -28,6 +28,8 @@ class Solution {
                 seen[n]=true;
             }
         }
+
+
     
         for(int i=r;i<r+3;i++){
           int rowSum=0;
@@ -49,7 +51,9 @@ class Solution {
           }
         }
 
-        
+        if(grid[r][c]+grid[r+1][c+1]+grid[r+2][c+2]!=15 || grid[r][c+2]+grid[r+1][c+1]+grid[r+2][c]!=15){
+            return 0;
+        }
         return 1;
     }
 }
