@@ -1,38 +1,36 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        // char [] arr1 = s.toCharArray();
-        // Arrays.sort(arr1);
-        // char [] arr2 = t.toCharArray();
-        // Arrays.sort(arr2);
-        // if(arr1.length!=arr2.length){
-        //     return false;
-        // }
-    
-        // for(int i=0;i<arr1.length;i++){
-            
-        //         if(arr1[i]!=arr2[i]){
-        //             return false;
-        //         }
-            
-        // }
-        // return true;
-      if(s.length()!=t.length()){
+     // Set<Character> set=new HashSet<>();
+      //if(s.length()!=t.length()){
+        //return false;
+     // }
+     // for(char c:s.toCharArray()){
+        //set.add(c);
+      //}
+      //for(int i=0;i<t.length();i++){
+        //if(!set.contains(t.charAt(i))){
+            //return false;
+       // }
+     // }
+
+       // return true; 
+
+
+     if(s.length()!=t.length()){
         return false;
-      }
-      int [] alphabate = new int[26];
+     }
+      int[] arr = new int[26];
       for(int i=0;i<s.length();i++){
-        alphabate[s.charAt(i)-'a']++;
+        arr[s.charAt(i)-'a']++;
+        arr[t.charAt(i)-'a']--;
       }
-      for(int i=0;i<t.length();i++){
-        alphabate[t.charAt(i)-'a']--;
-      }
-      for(int i:alphabate){
-        if(i!=0){
+
+      for(int i=0;i<26;i++){
+        if(arr[i]!=0){
             return false;
         }
       }
       return true;
+        
     }
 }
-        
-    
