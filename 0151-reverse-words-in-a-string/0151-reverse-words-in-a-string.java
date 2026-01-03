@@ -5,8 +5,8 @@ class Solution {
        List<String> words = new ArrayList<>();
        StringBuilder word = new StringBuilder();
 
-       for(int i=0;i<s.length();i++){
-        char c = s.charAt(i);
+       for(int i=0;i<t.length();i++){
+        char c = t.charAt(i);
         if(c==' ' && word.isEmpty()){
             continue;
         }else  if(c==' '){
