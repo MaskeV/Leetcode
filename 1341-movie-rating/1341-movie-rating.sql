@@ -14,19 +14,19 @@
 -- order by avg(rating) desc , title asc 
 -- limit 1
 
-(Select name as results
-from MovieRating m join Users U 
-on M.user_id=U.user_id 
-group by M.user_id
-order by count(rating) desc , name asc
-limit 1 )
+(select name as results
+from Users U join MovieRating M
+on U.user_id = M.user_id
+group by U.user_id
+order by count(movie_id) desc, name 
+limit 1)
 
 union all
 
-(select title as Results 
-from MovieRating MR join Movies M
-on Mr.movie_id = M.movie_id
-where month(created_at)='02' and year(created_at)='2020'
-group by MR.movie_id
-order by avg(rating) desc , title asc
+(select title as results
+from Movies M join MovieRating MR
+on M.movie_id = MR.movie_id
+where year(created_at) = "2020" and month(created_at)="02"
+group by M.movie_id
+order by avg(rating) desc , title
 limit 1)
