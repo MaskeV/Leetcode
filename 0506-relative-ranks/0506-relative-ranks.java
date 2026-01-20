@@ -4,7 +4,9 @@ class Solution {
 
         //Integer [] sorted = new Integer[score.length];  use Integer instead of int  if you need to use collections 
 
-        int[] sorted = new int[score.length];
+        int n=score.length;
+
+        int[] sorted = new int[n];
         int id =0;
 
        
@@ -16,18 +18,19 @@ class Solution {
           //Arrays.sort(sorted,Collections.reverseOrder());
           Arrays.sort(sorted);
 
-        for(int i=0;i<score.length;i++){
-            for(int j=sorted.length-1;j>=0;j--){
+        for(int i=0;i<n;i++){
+            for(int j=n-1;j>=0;j--){
                 if(score[i]==sorted[j]){
-                    if(j==sorted.length-1){
+                    if(j==n-1){
                         ans[i]="Gold Medal";
-                    }else if(j==sorted.length-2){
+                    }else if(j==n-2){
                         ans[i]="Silver Medal";
-                    }else if(j==sorted.length-3){
+                    }else if(j==n-3){
                         ans[i]="Bronze Medal";
                     }else{
-                        ans[i]=Integer.toString(sorted.length-j);
+                        ans[i]=Integer.toString(n-j);
                     }
+                    break;
 
                 }
             }
