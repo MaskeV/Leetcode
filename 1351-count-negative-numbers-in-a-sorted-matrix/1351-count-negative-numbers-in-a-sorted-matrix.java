@@ -3,16 +3,20 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
         int count=0;
-        int i=0;
-        int j=n-1;
-        while(i<m){
-            while(j>=0 && grid[i][j]<0){
-               count++;
-               j--;
+        
+     
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]>=0){
+                    continue;
+                }else{
+                    count+=n-j;
+                    break;
+                }
             }
-            i++;
-            j=n-1;
         }
+
+        
         return count;
     }
 }
