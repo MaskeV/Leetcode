@@ -3,7 +3,7 @@ class Solution {
         StringBuilder sb = new StringBuilder();
 
         while(n>0){
-            sb.append(n%2);
+            sb.append(Integer.valueOf(n%2));
             n=n/2;
         } 
 
