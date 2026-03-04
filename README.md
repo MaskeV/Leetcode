@@ -11,4 +11,12 @@
 | [1251-average-selling-price](https://github.com/MaskeV/Leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/MaskeV/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/MaskeV/Leetcode/tree/main/1729-find-followers-count/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/MaskeV/Leetcode/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/MaskeV/Leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
