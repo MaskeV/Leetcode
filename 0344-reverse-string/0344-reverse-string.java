@@ -9,13 +9,14 @@ class Solution {
         // for(int i=0;i<rev.length;i++){
         //     s[i]=rev[i];
         // System.out.print(rev[i]);
-       int left=0,right=s.length()-1;
+       int left=0,right=s.length-1;
        while(left<right){
-        int temp=s.charAt(left);
-        s.charAt(left)=s.charAt(right);
-        s.charAt(right)=temp;
+        char temp=s[left];
+        s[left]=s[right];
+        s[right]=temp;
+        left++;
+        right--;
        }
-       return s;
         
     }
 }
