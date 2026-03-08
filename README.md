@@ -23,9 +23,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/MaskeV/Leetcode/tree/main/0136-single-number/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MaskeV/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MaskeV/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/MaskeV/Leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
