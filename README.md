@@ -33,4 +33,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/MaskeV/Leetcode/tree/main/0136-single-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MaskeV/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MaskeV/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MaskeV/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
