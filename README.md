@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/MaskeV/Leetcode/tree/main/0136-single-number/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MaskeV/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [3861-minimum-capacity-box](https://github.com/MaskeV/Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
