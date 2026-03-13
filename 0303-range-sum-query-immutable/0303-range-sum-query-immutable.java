@@ -1,18 +1,23 @@
 class NumArray {
-    private int[] sum;
+    int[] pre;
 
     public NumArray(int[] nums) {
-        int n=nums.length;
-        sum = new int[n+1];
-        sum[0]=0;
-        for(int i=1;i<=n;i++){
-        sum[i]=sum[i-1]+nums[i-1];
-        }
+      int n = nums.length;
+      pre = new int[n];
+      pre[0]=nums[0];
+      for(int i=1;i<n;i++){
+        pre[i]=nums[i]+pre[i-1];
+      }
     }
     
-    public int sumRange(int left, int right) { 
-        return sum[right+1]-sum[left];
-    }
+    public int sumRange(int left, int right) {
+       if(left==0){
+        return pre[right];
+       }
+       return pre[right]-pre[left-1];
+
+      }  
+    
 }
 
 /**
