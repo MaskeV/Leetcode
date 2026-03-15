@@ -10,13 +10,6 @@ class Solution {
           return 0;
         }
 
-    int count=0;
-
-    for(int i=1000;i<=orignal;i++){
-        count++;
-    }
-
-
    return orignal -1000+1;
 
     }
