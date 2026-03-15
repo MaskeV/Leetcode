@@ -17,7 +17,7 @@ class Solution {
     }
 
 
-   return count;
+   return orignal -1000+1;
 
     }
 }
