@@ -1,9 +1,10 @@
 class Solution {
     public String reverseWords(String s) {
        //String[] words = s.trim().split("\\s+");
-       String t=s.trim();
+ 
        List<String> words = new ArrayList<>();
        StringBuilder word = new StringBuilder();
+       String t=s.trim();
 
        for(int i=0;i<t.length();i++){
         char c = t.charAt(i);
@@ -20,12 +21,12 @@ class Solution {
        }
        int i=words.size()-1;
       while(i>=0){
-         word.append(' ');
+        word.append(' ');
         word.append(words.get(i));
         i--;
       }
 
-      return word.toString().trim();
+      return word.toString();
         //int i=0;
         //int j=words.length-1;
         //while(i<j){
