@@ -49,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MaskeV/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/MaskeV/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/MaskeV/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
