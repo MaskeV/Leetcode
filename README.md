@@ -11,6 +11,7 @@
 | [1251-average-selling-price](https://github.com/MaskeV/Leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/MaskeV/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/MaskeV/Leetcode/tree/main/1729-find-followers-count/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/MaskeV/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
