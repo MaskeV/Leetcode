@@ -14,6 +14,7 @@
 | [0620-not-boring-movies](https://github.com/MaskeV/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/MaskeV/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1251-average-selling-price](https://github.com/MaskeV/Leetcode/tree/main/1251-average-selling-price/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/MaskeV/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/MaskeV/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/MaskeV/Leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/MaskeV/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
