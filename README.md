@@ -9,6 +9,7 @@
 | [0182-duplicate-emails](https://github.com/MaskeV/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/MaskeV/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/MaskeV/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/MaskeV/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/MaskeV/Leetcode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MaskeV/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/MaskeV/Leetcode/tree/main/0577-employee-bonus/) | Easy |
