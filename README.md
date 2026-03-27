@@ -16,6 +16,7 @@
 | [0619-biggest-single-number](https://github.com/MaskeV/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/MaskeV/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/MaskeV/Leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1075-project-employees-i](https://github.com/MaskeV/Leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/MaskeV/Leetcode/tree/main/1158-market-analysis-i/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/MaskeV/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1251-average-selling-price](https://github.com/MaskeV/Leetcode/tree/main/1251-average-selling-price/) | Easy |
