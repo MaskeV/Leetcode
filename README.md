@@ -23,6 +23,7 @@
 | [1661-average-time-of-process-per-machine](https://github.com/MaskeV/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/MaskeV/Leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/MaskeV/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/MaskeV/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
