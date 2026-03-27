@@ -24,6 +24,7 @@
 | [1484-group-sold-products-by-the-date](https://github.com/MaskeV/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/MaskeV/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/MaskeV/Leetcode/tree/main/1729-find-followers-count/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/MaskeV/Leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/MaskeV/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/MaskeV/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Two Pointers
