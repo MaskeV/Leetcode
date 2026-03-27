@@ -19,6 +19,7 @@
 | [1158-market-analysis-i](https://github.com/MaskeV/Leetcode/tree/main/1158-market-analysis-i/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/MaskeV/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1251-average-selling-price](https://github.com/MaskeV/Leetcode/tree/main/1251-average-selling-price/) | Easy |
+| [1321-restaurant-growth](https://github.com/MaskeV/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/MaskeV/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/MaskeV/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/MaskeV/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
