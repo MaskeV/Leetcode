@@ -1,17 +1,28 @@
 class Solution {
-    public boolean judgeCircle(String s) {
-       int l=0,u=0;
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='L'){
-               l++;
-            }else if(s.charAt(i)=='R'){
-               l--;
-            }else if(s.charAt(i)=='U'){
-                u++;
-            }else{
-                u--;
-            }
+    public boolean judgeCircle(String moves) {
+
+        Deque<Character> stack = new ArrayDeque<>();
+
+        int dCount = 0;
+        int rCount = 0;
+        int lCount = 0;
+        int uCount = 0;
+
+        for(int i=0;i<moves.length();i++){
+          if(moves.charAt(i)=='D'){
+            dCount++;
+          }else if(moves.charAt(i)=='L'){
+            lCount++;
+          }else if(moves.charAt(i)=='U'){
+            uCount++;
+          }else{
+            rCount++;
+          }
         }
-        return l==0 && u==0;
+        if(dCount == uCount && lCount == rCount){
+            return true;
+        }
+
+        return false;
     }
 }
