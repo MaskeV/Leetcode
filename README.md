@@ -40,6 +40,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/MaskeV/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/MaskeV/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/MaskeV/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/MaskeV/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -90,6 +91,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MaskeV/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/MaskeV/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/MaskeV/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0070-climbing-stairs](https://github.com/MaskeV/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Recursion
@@ -112,6 +114,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/MaskeV/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/MaskeV/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/MaskeV/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/MaskeV/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
