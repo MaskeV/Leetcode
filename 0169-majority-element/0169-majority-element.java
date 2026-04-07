@@ -1,18 +1,18 @@
 class Solution {
     public int majorityElement(int[] nums) {
+        int count = 0;
+        int target = nums[0];
 
-        int count =0;
-        int find = nums[0];
-        for(int i = 0;i<nums.length;i++){
-            if(count==0){
-                find = nums[i];
+        for(int i=0;i<nums.length;i++){
+            if(count<=0){
+                target = nums[i];
             }
-            if(nums[i]==find){
+            if(nums[i]==target){
                 count++;
-            }else if(nums[i]!=find){
+            }else{
                 count--;
             }
         }
-        return find;
+        return target;
     }
 }
