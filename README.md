@@ -58,6 +58,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/MaskeV/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MaskeV/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/MaskeV/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/MaskeV/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/MaskeV/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -128,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/MaskeV/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MaskeV/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
