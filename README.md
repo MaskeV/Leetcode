@@ -44,6 +44,7 @@
 | [0012-integer-to-roman](https://github.com/MaskeV/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/MaskeV/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/MaskeV/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/MaskeV/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MaskeV/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/MaskeV/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/MaskeV/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
