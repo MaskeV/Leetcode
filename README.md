@@ -51,6 +51,7 @@
 | [0657-robot-return-to-origin](https://github.com/MaskeV/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MaskeV/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MaskeV/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MaskeV/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MaskeV/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MaskeV/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Array
@@ -75,6 +76,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MaskeV/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MaskeV/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/MaskeV/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MaskeV/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/MaskeV/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/MaskeV/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
