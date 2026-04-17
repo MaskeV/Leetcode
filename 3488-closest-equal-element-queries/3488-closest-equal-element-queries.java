@@ -1,40 +1,39 @@
 class Solution {
     public List<Integer> solveQueries(int[] nums, int[] queries) {
-        int n = nums.length;
-        Map<Integer, List<Integer>> map = new HashMap<>();
-
-        // store indices
-        for (int i = 0; i < n; i++) {
-            map.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
-        }
 
         List<Integer> ans = new ArrayList<>();
+        int n = nums.length;
+        Map<Integer,List<Integer>> map = new HashMap<>();
 
-        for (int q : queries) {
-            List<Integer> v = map.get(nums[q]);
-
-            // only one time present
-            if (v.size() == 1) {
-                ans.add(-1);
-                continue;
+        for(int i=0;i<nums.length;i++){
+            if(map.containsKey(nums[i])){
+               List<Integer> temp = map.get(nums[i]);
+               temp.add(i);
+               map.put(nums[i],temp);
+            }else{
+                List<Integer> temp = new ArrayList<>();
+                temp.add(i);
+                map.put(nums[i],temp);
             }
+        } 
 
-            int pos = Collections.binarySearch(v, q);
-            int res = Integer.MAX_VALUE;
 
-            // left neighbor
-            int left = v.get((pos - 1 + v.size()) % v.size());
-            int d1 = Math.abs(q - left);
-            res = Math.min(res, Math.min(d1, n - d1));
-
-            // right neighbor
-            int right = v.get((pos + 1) % v.size());
-            int d2 = Math.abs(q - right);
-            res = Math.min(res, Math.min(d2, n - d2));
-
-            ans.add(res);
-        }
-
-        return ans;
+         for(int i:queries){
+            List<Integer> temp = map.get(nums[i]);
+            if(temp.size()<2){
+                ans.add(-1);
+            }else{
+                int min = Integer.MAX_VALUE;
+                for(int j:temp){
+                    if(j==i){
+                        continue;
+                    }
+                    min = Math.min(min,Math.abs(i-j));
+                    min = Math.min(min,n-Math.abs(i-j));
+                }
+                ans.add(min);
+            }
+         }
+        return ans; 
     }
 }
