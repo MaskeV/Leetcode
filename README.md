@@ -77,6 +77,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MaskeV/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MaskeV/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/MaskeV/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MaskeV/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MaskeV/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/MaskeV/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -211,6 +212,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/MaskeV/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MaskeV/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
