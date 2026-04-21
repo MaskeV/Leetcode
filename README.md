@@ -113,6 +113,7 @@
 | [0009-palindrome-number](https://github.com/MaskeV/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/MaskeV/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0070-climbing-stairs](https://github.com/MaskeV/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [1952-three-divisors](https://github.com/MaskeV/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MaskeV/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/MaskeV/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -192,6 +193,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/MaskeV/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/MaskeV/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -217,4 +219,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/MaskeV/Leetcode/tree/main/0274-h-index/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/MaskeV/Leetcode/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
