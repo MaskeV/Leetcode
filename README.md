@@ -40,6 +40,7 @@
 | [0088-merge-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MaskeV/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/MaskeV/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [1861-rotating-the-box](https://github.com/MaskeV/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MaskeV/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MaskeV/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/MaskeV/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1861-rotating-the-box](https://github.com/MaskeV/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MaskeV/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MaskeV/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/MaskeV/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -96,6 +98,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MaskeV/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MaskeV/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1861-rotating-the-box](https://github.com/MaskeV/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2906-construct-product-matrix](https://github.com/MaskeV/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/MaskeV/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
