@@ -20,20 +20,18 @@ class Solution {
    //   }
  //     return count;  
 
-    int[] ans = new int[nums.length];
-    int j=0;
-    for(int i=0;i<nums.length;i++){
-        if(nums[i]!=val){
-          ans[j]=nums[i];
-          j++;
+    int i=0;
+    int j = nums.length-1;
+    int count=0;
+    while(i<=j){
+        if(nums[i]==val){
+            nums[i]=nums[j];
+            j--;
+        }else{
+            i++;
+            count++;
         }
     }
-
-    for(int i=0;i<j;i++){
-        nums[i]=ans[i];
-    }
-
-    return j;
-
+     return count;
     }
 }
