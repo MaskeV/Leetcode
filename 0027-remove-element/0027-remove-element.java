@@ -20,20 +20,20 @@ class Solution {
    //   }
  //     return count;  
 
-      int count =0;
-      int id =0;
-      for(int i =0;i<nums.length;i++){
-
-        if(nums[i] != val){
-            nums[id] =  nums[i];
-            id++;
-            count++;
+    int[] ans = new int[nums.length];
+    int j=0;
+    for(int i=0;i<nums.length;i++){
+        if(nums[i]!=val){
+          ans[j]=nums[i];
+          j++;
         }
+    }
 
-      }
+    for(int i=0;i<j;i++){
+        nums[i]=ans[i];
+    }
 
-      return count;
-    
+    return j;
 
     }
 }
