@@ -86,6 +86,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MaskeV/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MaskeV/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/MaskeV/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/MaskeV/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/MaskeV/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/MaskeV/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -153,6 +154,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/MaskeV/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MaskeV/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MaskeV/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/MaskeV/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MaskeV/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/MaskeV/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MaskeV/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -180,6 +182,7 @@
 | [0169-majority-element](https://github.com/MaskeV/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0274-h-index](https://github.com/MaskeV/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/MaskeV/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/MaskeV/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MaskeV/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
