@@ -81,6 +81,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MaskeV/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/MaskeV/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MaskeV/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1306-jump-game-iii](https://github.com/MaskeV/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MaskeV/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MaskeV/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/MaskeV/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -243,4 +244,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/MaskeV/Leetcode/tree/main/1952-three-divisors/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/MaskeV/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/MaskeV/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->
