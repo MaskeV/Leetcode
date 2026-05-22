@@ -66,6 +66,7 @@
 | [0014-longest-common-prefix](https://github.com/MaskeV/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MaskeV/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/MaskeV/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/MaskeV/Leetcode/tree/main/0055-jump-game/) | Medium |
@@ -209,6 +210,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/MaskeV/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
