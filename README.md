@@ -98,6 +98,7 @@
 | [2784-check-if-array-is-good](https://github.com/MaskeV/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/MaskeV/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MaskeV/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/MaskeV/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/MaskeV/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MaskeV/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -134,6 +135,7 @@
 | [0070-climbing-stairs](https://github.com/MaskeV/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [1952-three-divisors](https://github.com/MaskeV/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MaskeV/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MaskeV/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/MaskeV/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Recursion
