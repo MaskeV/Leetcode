@@ -71,6 +71,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/MaskeV/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/MaskeV/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/MaskeV/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/MaskeV/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MaskeV/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -109,6 +110,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MaskeV/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/MaskeV/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MaskeV/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1861-rotating-the-box](https://github.com/MaskeV/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -162,6 +164,7 @@
 | [0001-two-sum](https://github.com/MaskeV/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/MaskeV/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/MaskeV/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/MaskeV/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/MaskeV/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/MaskeV/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MaskeV/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
