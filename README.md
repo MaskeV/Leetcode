@@ -106,6 +106,7 @@
 | [3488-closest-equal-element-queries](https://github.com/MaskeV/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/MaskeV/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MaskeV/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/MaskeV/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MaskeV/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/MaskeV/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MaskeV/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -260,6 +261,7 @@
 | [0055-jump-game](https://github.com/MaskeV/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MaskeV/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MaskeV/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/MaskeV/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
