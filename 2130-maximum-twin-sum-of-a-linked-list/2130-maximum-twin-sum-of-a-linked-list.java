@@ -59,7 +59,7 @@ class Solution {
        }
 
       ListNode temp = prev;
-       while(head!=temp && prev!=null){
+       while(prev!=null){
         if(head.val+prev.val>maxTwinSum){
             maxTwinSum = head.val+prev.val;
 
