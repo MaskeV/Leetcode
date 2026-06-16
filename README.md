@@ -86,6 +86,7 @@
 | [0238-product-of-array-except-self](https://github.com/MaskeV/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/MaskeV/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/MaskeV/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/MaskeV/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MaskeV/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/MaskeV/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MaskeV/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -145,6 +146,7 @@
 | [0009-palindrome-number](https://github.com/MaskeV/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/MaskeV/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0070-climbing-stairs](https://github.com/MaskeV/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/MaskeV/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1952-three-divisors](https://github.com/MaskeV/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MaskeV/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -159,6 +161,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MaskeV/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/MaskeV/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +181,7 @@
 | [0049-group-anagrams](https://github.com/MaskeV/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/MaskeV/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/MaskeV/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/MaskeV/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/MaskeV/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/MaskeV/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MaskeV/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -291,4 +295,8 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MaskeV/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MaskeV/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/MaskeV/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
