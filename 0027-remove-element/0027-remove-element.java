@@ -20,18 +20,26 @@ class Solution {
    //   }
  //     return count;  
 
+    int count =0;
     int i=0;
-    int j = nums.length-1;
-    int count=0;
+    int j=nums.length-1;
+
     while(i<=j){
         if(nums[i]==val){
             nums[i]=nums[j];
             j--;
         }else{
-            i++;
             count++;
+            i++;
         }
+        
     }
-     return count;
+
+    return count;
+
+
+
+
+
     }
 }
