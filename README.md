@@ -99,6 +99,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MaskeV/Leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/MaskeV/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MaskeV/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/MaskeV/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/MaskeV/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1861-rotating-the-box](https://github.com/MaskeV/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MaskeV/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -223,6 +224,7 @@
 | [0169-majority-element](https://github.com/MaskeV/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0274-h-index](https://github.com/MaskeV/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/MaskeV/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/MaskeV/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MaskeV/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/MaskeV/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MaskeV/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -278,6 +280,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/MaskeV/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/MaskeV/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/MaskeV/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MaskeV/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MaskeV/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/MaskeV/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -285,6 +288,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/MaskeV/Leetcode/tree/main/0274-h-index/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/MaskeV/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
