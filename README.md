@@ -143,6 +143,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MaskeV/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MaskeV/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/MaskeV/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MaskeV/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MaskeV/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MaskeV/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -189,6 +190,7 @@
 | [0012-integer-to-roman](https://github.com/MaskeV/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/MaskeV/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/MaskeV/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/MaskeV/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/MaskeV/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/MaskeV/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/MaskeV/Leetcode/tree/main/0383-ransom-note/) | Easy |
