@@ -90,6 +90,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MaskeV/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/MaskeV/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/MaskeV/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/MaskeV/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/MaskeV/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/MaskeV/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/MaskeV/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -195,6 +196,7 @@
 | [0073-set-matrix-zeroes](https://github.com/MaskeV/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/MaskeV/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/MaskeV/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/MaskeV/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/MaskeV/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/MaskeV/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/MaskeV/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -230,6 +232,7 @@
 | [0049-group-anagrams](https://github.com/MaskeV/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/MaskeV/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/MaskeV/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0274-h-index](https://github.com/MaskeV/Leetcode/tree/main/0274-h-index/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/MaskeV/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MaskeV/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
