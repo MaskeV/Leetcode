@@ -6,26 +6,30 @@ class Solution {
         //nums1[i]=nums2[id];
        // id++;
      // }
-      //Arrays.sort(nums1);   
+      //Arrays.sort(nums1);  
 
-      int i = m-1,j=n-1,k=nums1.length-1;
 
-      while(j>=0 && i>=0){
-        if(nums1[i]>nums2[j]){
-            nums1[k]=nums1[i];
-            i--;
-
-        }else{
+      int i = m-1, j= n-1 , k=nums1.length-1; 
+      
+      while(i>=0 && j>=0){
+        if(nums1[i]<nums2[j]){
             nums1[k]=nums2[j];
             j--;
+        }else{
+            nums1[k]=nums1[i];
+            i--;
         }
-        k--;
-      }
 
-      while(j>=0){
-        nums1[k]=nums2[j];j--;
         k--;
       }
     
+      while(j>=0){
+        nums1[k] = nums2[j];
+        j--;
+        k--;
+      }
+    
+
+      
     }
 }
