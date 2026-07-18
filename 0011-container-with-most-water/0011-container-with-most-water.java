@@ -13,22 +13,24 @@ class Solution {
       //  }
     //    return max;
 
+       int i=0;
+       int j=height.length-1;
+       int max=0;
 
-    int max =0;
-    int i=0,j=height.length-1;
+       while(i<j){
+         int curr = Math.min(height[i],height[j])*(j-i);
 
-    while(i<j){
-      int min = Math.min(height[i],height[j]);
-        if(max<(j-i)*min){
-            max = (j-i)*min;
-        }
-        if(height[i]<height[j]){
-            i++;
-        }else{
+         if(max<curr){
+            max=curr;
+         }
+         if(height[i]>height[j]){
             j--;
-        }
-    }
+         }
+         else{
+            i++;
+         }
+       }
 
-    return max;
+       return max;
     }
 }
