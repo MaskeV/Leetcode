@@ -40,6 +40,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MaskeV/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MaskeV/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MaskeV/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/MaskeV/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/MaskeV/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [1861-rotating-the-box](https://github.com/MaskeV/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -91,6 +92,7 @@
 | [0136-single-number](https://github.com/MaskeV/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MaskeV/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MaskeV/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/MaskeV/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/MaskeV/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/MaskeV/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -283,6 +285,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MaskeV/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MaskeV/Leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MaskeV/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MaskeV/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [2540-minimum-common-value](https://github.com/MaskeV/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/MaskeV/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
