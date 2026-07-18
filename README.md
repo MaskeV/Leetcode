@@ -112,6 +112,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/MaskeV/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1861-rotating-the-box](https://github.com/MaskeV/Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MaskeV/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MaskeV/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MaskeV/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MaskeV/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MaskeV/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -167,6 +168,7 @@
 | [0189-rotate-array](https://github.com/MaskeV/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/MaskeV/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1952-three-divisors](https://github.com/MaskeV/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MaskeV/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MaskeV/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MaskeV/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -325,6 +327,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/MaskeV/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MaskeV/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MaskeV/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
