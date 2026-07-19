@@ -39,6 +39,7 @@
 | [0027-remove-element](https://github.com/MaskeV/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MaskeV/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MaskeV/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/MaskeV/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MaskeV/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MaskeV/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/MaskeV/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -55,6 +56,7 @@
 | [0020-valid-parentheses](https://github.com/MaskeV/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/MaskeV/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/MaskeV/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/MaskeV/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MaskeV/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/MaskeV/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/MaskeV/Leetcode/tree/main/0344-reverse-string/) | Easy |
