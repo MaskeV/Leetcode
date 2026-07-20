@@ -10,59 +10,38 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode merge = new ListNode();
-        ListNode head=merge;
+
+        ListNode merged = new ListNode(-1);
+        ListNode head = merged;
+
         while(list1!=null && list2!=null){
             if(list1.val<=list2.val){
-                merge.next=list1;
+               merged.next = new ListNode(list1.val);
                 list1=list1.next;
             }else{
-                merge.next=list2;
-                list2=list2.next;
+               merged.next = new ListNode(list2.val);
+               list2 = list2.next;
             }
-            merge=merge.next;
-        }
-        while(list1!=null){
-            merge.next=list1;
-            list1=list1.next;
-            merge=merge.next;
-        }
-        while(list2!=null){
-            merge.next=list2;
-            list2=list2.next;
-            merge=merge.next;
-        }
-        return head.next;
-       
-        // while(list1 !=null){
-        //     ans.next=list1;
-        //     list1 = list1.next;
-        //     ans = ans.next;
-        // }
-        // while(list2!=null){
-        //     ans.next = list2;
-        //     list2 = list2.next;
-        //     ans = ans.next;
-        // }
-        // return head.next;
 
+            merged = merged.next;
+
+        }
+
+        while(list1!=null){
+           merged.next = new ListNode(list1.val);
+            list1=list1.next;
+            merged = merged.next;
+
+        }
+
+         while(list2!=null){
+            merged.next = new ListNode(list2.val);
+            list2=list2.next;
+            merged = merged.next;
+        }
+
+        return head.next;
+
+        
     }
 }
-
-// class Solution{
-//     public ListNode mergeTwoLists(ListNode l1, ListNode l2){
-//         if(l1 == null){
-//             return l2;
-//         }if(l2 == null){
-//             return l1;
-//         }if(l1.val<l2.val){
-//             l1.next = mergeTwoLists(l1.next,l2);
-//             return l1;
-//         }else{
-//             l2.next = mergeTwoLists(l2.next,l1);
-//             return l2;
-
-//         }
-        
-//     }
-// }
