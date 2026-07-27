@@ -14,6 +14,7 @@
 | [0550-game-play-analysis-iv](https://github.com/MaskeV/Leetcode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/MaskeV/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/MaskeV/Leetcode/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/MaskeV/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0619-biggest-single-number](https://github.com/MaskeV/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/MaskeV/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/MaskeV/Leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
