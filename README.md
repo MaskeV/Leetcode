@@ -78,6 +78,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/MaskeV/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/MaskeV/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MaskeV/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MaskeV/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/MaskeV/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/MaskeV/Leetcode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Array
@@ -283,6 +284,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MaskeV/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/MaskeV/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MaskeV/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MaskeV/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/MaskeV/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3913-sort-vowels-by-frequency](https://github.com/MaskeV/Leetcode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Heap (Priority Queue)
@@ -358,6 +360,7 @@
 | ------- | ------- |
 | [0274-h-index](https://github.com/MaskeV/Leetcode/tree/main/0274-h-index/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/MaskeV/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MaskeV/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
