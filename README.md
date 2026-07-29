@@ -24,6 +24,7 @@
 | [1148-article-views-i](https://github.com/MaskeV/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/MaskeV/Leetcode/tree/main/1158-market-analysis-i/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/MaskeV/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
+| [1193-monthly-transactions-i](https://github.com/MaskeV/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/MaskeV/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/MaskeV/Leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/MaskeV/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
