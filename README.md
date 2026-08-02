@@ -124,6 +124,7 @@
 | [0704-binary-search](https://github.com/MaskeV/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/MaskeV/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MaskeV/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0877-stone-game](https://github.com/MaskeV/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/MaskeV/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/MaskeV/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/MaskeV/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -196,6 +197,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/MaskeV/Leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/MaskeV/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MaskeV/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/MaskeV/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1952-three-divisors](https://github.com/MaskeV/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MaskeV/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -273,6 +275,7 @@
 | [0070-climbing-stairs](https://github.com/MaskeV/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MaskeV/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0486-predict-the-winner](https://github.com/MaskeV/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/MaskeV/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,4 +418,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/MaskeV/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/MaskeV/Leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
