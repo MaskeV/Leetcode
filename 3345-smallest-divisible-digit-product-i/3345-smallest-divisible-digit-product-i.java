@@ -1,7 +1,7 @@
 class Solution {
     public int smallestNumber(int n, int t) {
 
-      for(int i=n;i<=n+t;i++){
+      for(int i=n;i<n+t;i++){
         int product = productOfDigit(i);
          if(product%t==0){
             return i;
