@@ -1,12 +1,11 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        int i=n;
-       while(i>=n){
+
+      for(int i=n;i<=n+t;i++){
         int product = productOfDigit(i);
          if(product%t==0){
             return i;
          }
-         i++;
        }
 
        return -1;
