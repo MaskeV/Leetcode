@@ -207,6 +207,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MaskeV/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MaskeV/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MaskeV/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/MaskeV/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MaskeV/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MaskeV/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -345,6 +346,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/MaskeV/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MaskeV/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/MaskeV/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
