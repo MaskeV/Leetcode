@@ -158,6 +158,7 @@
 | [2784-check-if-array-is-good](https://github.com/MaskeV/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/MaskeV/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/MaskeV/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MaskeV/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MaskeV/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/MaskeV/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -366,6 +367,7 @@
 | [1260-shift-2d-grid](https://github.com/MaskeV/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/MaskeV/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/MaskeV/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/MaskeV/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/MaskeV/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MaskeV/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Divide and Conquer
