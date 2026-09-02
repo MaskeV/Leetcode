@@ -172,6 +172,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/MaskeV/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MaskeV/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/MaskeV/Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/MaskeV/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +228,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MaskeV/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MaskeV/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/MaskeV/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/MaskeV/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
